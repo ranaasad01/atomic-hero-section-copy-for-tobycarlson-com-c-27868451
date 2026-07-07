@@ -17,16 +17,19 @@ export const APP_URL = "https://tobycarlson.com";
 
 export const navLinks: NavLink[] = [
   { label: "Home", href: "/" },
-  { label: "Work", href: "#work" },
-  { label: "Projects", href: "#projects" },
-  { label: "Articles", href: "#articles" },
-  { label: "Videos", href: "#videos" },
-  { label: "Connect", href: "#connect" },
+  { label: "Work", href: "/work" },
+  { label: "Projects", href: "/projects" },
+  { label: "Articles", href: "/articles" },
+  { label: "Videos", href: "/videos" },
+  { label: "Patents", href: "/patents" },
+  { label: "Speaking", href: "/speaking" },
+  { label: "About", href: "/about" },
+  { label: "Connect", href: "/connect" },
 ];
 
 export const primaryCTA = {
   label: "Explore My Work",
-  href: "#work",
+  href: "/work",
 };
 
 export const stats: StatItem[] = [

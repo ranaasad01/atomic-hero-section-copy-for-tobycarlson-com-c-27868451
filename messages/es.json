@@ -1,0 +1,51 @@
+{
+  "articles": {
+    "cta": "Leer Más",
+    "heading": "Últimos Artículos",
+    "label": "Insights",
+    "subheading": "Reflexiones sobre innovación, tecnología y el futuro."
+  },
+  "connect": {
+    "badge1": "Correo",
+    "badge2": "LinkedIn",
+    "badge3": "Twitter",
+    "badge4": "Agendar",
+    "dividerText": "o",
+    "emailCta": "Enviar Correo",
+    "heading": "Conectemos",
+    "linkedinCta": "Ver Perfil",
+    "subheading": "¿Interesado en colaborar o aprender más? Ponte en contacto."
+  },
+  "hero": {
+    "badge": "Innovador y Constructor",
+    "cta": {
+      "connect": "Conectar",
+      "exploreWork": "Explorar Mi Trabajo",
+      "readArticles": "Leer Artículos",
+      "viewProjects": "Ver Proyectos",
+      "watchVideos": "Ver Videos"
+    },
+    "name": "Toby Carlson",
+    "supporting": "Inventor, emprendedor y constructor de tecnología enfocado en crear sistemas inteligentes, lanzar empresas transformadoras y convertir ideas ambiciosas en impacto real.",
+    "tagline": "Explorando los límites de la innovación, transformando ideas audaces en tecnologías que moldean el futuro."
+  },
+  "pillars": {
+    "heading": "Qué Hago",
+    "label": "Áreas de Enfoque",
+    "subheading": "Impulsado por la curiosidad e impacto en múltiples dominios."
+  },
+  "testimonials": {
+    "heading": "Lo Que Otros Dicen",
+    "label": "Testimonios"
+  },
+  "videos": {
+    "heading": "Videos Destacados",
+    "label": "Media",
+    "subheading": "Charlas, demostraciones e insights sobre tecnología e innovación."
+  },
+  "work": {
+    "heading": "Trabajo Seleccionado",
+    "label": "Proyectos",
+    "viewAll": "Ver Todos los Proyectos"
+  }
+}
